@@ -3,11 +3,13 @@ layout: default
 title: Home
 ---
 
+# Home Page
+
 ***
 
 Hello, I'm Ryan Rashidian. o/
 
-This is just a simple homepage for linking projects, blogs, contact info, and other such things.
+This is a simple home page for linking projects, blogs, contact info, and other such things.
 
 Links:
 
