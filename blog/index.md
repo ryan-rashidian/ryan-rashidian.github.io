@@ -2,6 +2,8 @@
 title: "Blog Index"
 ---
 
+# Blog
+
 ***
 
 {% for post in site.posts %}
