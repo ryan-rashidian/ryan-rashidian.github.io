@@ -17,7 +17,9 @@ Gist has a bytecode compiler paired together with a stack based virtual machine,
 
 # Goal
 
-The goal for this project is simple: to build a working programming language, and learn some things along the way. There will be absolutely no AI generated code in the interpreter, as that would defeat the purpose. There is no deadline, no shareholders, no use case for a another Lisp in a sea of them already made. Everything will be researched from published, or otherwise credible sources. Though the language will be based on the R5RS standard, I have not decided whether I will strictly adhere to it, or seek to be fully compliant with it.
+The goal for this project is simple: to build a working programming language, and learn some things along the way. There will be absolutely no AI generated code in the interpreter, as that would defeat the purpose. There is no deadline, no shareholders, no use case for a another Lisp in a sea of them already made. Everything will be researched from published, or otherwise credible sources.
+
+Though the language will be based on the R5RS standard, I have not decided whether I will strictly adhere to it, or seek to be fully compliant with it.
 
 There are other ideas for the project that may, or may not be added once the foundation is solid. Such as making a C library that compiles the interpreter for embedding purposes. But the initial focus will be on making a fast, light weight interpreter with an easily extendable code-base.
 
